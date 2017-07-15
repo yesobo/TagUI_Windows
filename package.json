@@ -1,0 +1,23 @@
+{
+  "name": "tagui",
+  "version": "2.0.0",
+  "description": "General purpose tool for automating web interactions",
+  "keywords": [
+    "tagui"
+  ],
+  "license": "MIT",
+  "author": "Tebel.Automation",
+  "homepage": "https://github.com/tebelorg/TagUI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tebelorg/TagUI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tebelorg/TagUI/issues"
+  },
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.14",
+    "casperjs": "^1.1.4",
+    "slimerjs": "^0.10.3"
+  }
+}
